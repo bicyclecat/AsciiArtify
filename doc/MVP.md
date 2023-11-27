@@ -1,4 +1,4 @@
-# AsciiArtify: Minimum Viable Product (PoC)
+# AsciiArtify: Minimum Viable Product (MVP)
 
 ## Intro
 After successful completion of the PoC, the "AsciiArtify" Team is ready to the MVP deployment.
